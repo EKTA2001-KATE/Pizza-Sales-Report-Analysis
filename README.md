@@ -1,1 +1,3 @@
 # Pizza-Sales-Report-Analysis
+This report presents an analysis of pizza sales performance based on the Pizza Sales Dashboard. The objective of the project is to identify sales trends, customer purchasing behavior, top-performing categories, and operational insights that can support business growth and profitability.
+The analysis reveals that the business generated ₹817.86K in total revenue from 21,350 orders, selling 49,574 pizzas with an average order value of ₹38.31 and 2.32 pizzas per order. The findings highlight strong demand during weekends, particularly Friday and Saturday evenings, and indicate that the Classic pizza category and Large-sized pizzas are the primary revenue drivers.
